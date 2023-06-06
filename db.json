@@ -1,0 +1,74 @@
+{
+    "users": [
+      {
+        "name": "rani",
+        "email": "rani@gmail.com",
+        "password": "0000",
+        "id": 1
+      },
+      {
+        "name": "ram",
+        "email": "ram@gmail.com",
+        "password": "0000",
+        "id": 2
+      }
+    ],
+    "userData": [
+      {
+        "name": "ram",
+        "type": "Income",
+        "category": "Salary",
+        "amount": "23000",
+        "date": "2023-06-07",
+        "id": 1
+      },
+      {
+        "name": "ram",
+        "type": "Income",
+        "category": "Gifts",
+        "amount": "1000",
+        "date": "2023-06-08",
+        "id": 2
+      },
+      {
+        "name": "ram",
+        "type": "Expense",
+        "category": "Housing",
+        "amount": "20000",
+        "date": "2023-06-07",
+        "id": 3
+      },
+      {
+        "name": "ram",
+        "type": "Expense",
+        "category": "Food&Drinks",
+        "amount": "900",
+        "date": "2023-06-06",
+        "id": 4
+      },
+      {
+        "name": "ram",
+        "type": "Expense",
+        "category": "Shopping",
+        "amount": "10000",
+        "date": "2023-06-07",
+        "id": 5
+      },
+      {
+        "name": "ram",
+        "type": "Expense",
+        "category": "Bills",
+        "amount": "7000",
+        "date": "2023-06-13",
+        "id": 6
+      },
+      {
+        "name": "ram",
+        "type": "Expense",
+        "category": "Vehicle&Transport",
+        "amount": "9000",
+        "date": "2023-06-02",
+        "id": 7
+      }
+    ]
+  }
